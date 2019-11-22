@@ -1,0 +1,8 @@
+theme: "Serif"
+author: "onota0318"
+transision: "fade"
+title: "サンプル" # スライドごとに変えています。
+revealjs_config: 
+  slideNumber: true
+  history: true
+  controls: true

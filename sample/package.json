@@ -1,0 +1,12 @@
+{
+  "name": "sample",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "generate": "reveal-ck generate",
+    "serve": "reveal-ck serve"
+  },
+  "author": "",
+  "license": "ISC"
+}
